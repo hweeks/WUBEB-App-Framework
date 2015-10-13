@@ -1,0 +1,22 @@
+# ES6, Babble, Underscore, Webpack, Backbone App Framework 'WUBEB App Framework'
+Another Wonderful Framework for Using this Language aka 'AWFUL'
+
+---
+
+## Installation
+
+    npm install
+
+If you don't have webpack installed globally go [here](http://webpack.github.io/docs/tutorials/getting-started/) for instructions on how to install it.
+
+## View The App
+
+    webpack-dev-server --progress --colors
+
+Now go to [dev](http://localhost:8080/) to check it out.
+
+## What and Why
+This is a sumper simple example framework for building a Backbone App in ES6. I'm using webpack to bundle this whole thing. There is no current minification, but it can be built in. This is supposed to be a really simple example of how to do this. It's also loaded down with terrible acronyms.
+
+## You've got an idea on how to make this better?
+I'm super game to hear about it. We can only become better through our peers, so open a PR, create a discussion, slander me. However you want to go about it, just get your thoughts to me!
